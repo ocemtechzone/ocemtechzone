@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-ocemtechzone/ocemtechzone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm OcemTech Zone, a software developer with years of experience in building and delivering software solutions for businesses. My expertise  in Angular, ReactJs, Node Js, UI development, PHP, Codeigniter 3.
+
+I have a passion for solving complex problems and creating elegant solutions that meet the needs of end-users. My development approach is centered around writing clean, maintainable, and scalable code that is easy to understand and modify. I'm also experienced in working collaboratively with cross-functional teams and in agile development environments.
+
+In my free time, I enjoy exploring new technologies, attending tech conferences, and contributing to open source projects. I'm always looking for new challenges and opportunities to expand my skill set and grow as a developer.
+
+Feel free to take a look at my GitHub repositories to see some of my work and feel free to reach out if you have any questions or if you would like to collaborate on a project.
