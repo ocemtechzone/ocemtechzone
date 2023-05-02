@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Hi, I'm OcemTech Zone, a software developer with years of experience in building and delivering software solutions for businesses. My expertise  in Angular, ReactJs, Node Js, UI development, PHP, Codeigniter 3.
+Hi, I'm OcemTech Zone, a software developer with 5 years of experience in building and delivering software solutions for businesses. My expertise  in Angular, ReactJs, Node Js, UI development, PHP, Codeigniter 3.
 
 I have a passion for solving complex problems and creating elegant solutions that meet the needs of end-users. My development approach is centered around writing clean, maintainable, and scalable code that is easy to understand and modify. I'm also experienced in working collaboratively with cross-functional teams and in agile development environments.
 
